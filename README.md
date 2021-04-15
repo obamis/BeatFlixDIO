@@ -1,5 +1,5 @@
 
-# <h1 align="center"> Beat Flix :notes: :notes:</h1>
+# <h1 align="center"> Beat Flix <br> <img src="https://github.com/obamis/BeatFlixDIO/blob/master/img/favico_tratada.png?raw=true"/></h1>
 <p>
 <img src="https://img.shields.io/badge/-Html-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-css-1572b6?logo=CSS3&logoColor=white&style=for-the-badge"/>
@@ -19,8 +19,12 @@
 ## Status do Projeto: Em desenvolvimento :warning:
 
 
-### Após a conclusão do projeto / desafio da DIO fiz algumas modificações sobre o projeto inicial e "mudei" também o foco  da plataforma.
+#### Após a conclusão do projeto / desafio da DIO fiz algumas modificações sobre o projeto inicial e "mudei" também o foco  da plataforma.
 
+
+
+  <img src="https://github.com/obamis/BeatFlixDIO/blob/master/img/interface-site/BEATFLIX1.png"/>
+  <img src="https://github.com/obamis/BeatFlixDIO/blob/master/img/interface-site/BEATFLIX2.png"/>
 
 ![loficoding13](https://user-images.githubusercontent.com/56206316/114814013-ac327380-9d89-11eb-905b-0721709aa5a0.jpg)
  
