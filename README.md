@@ -15,6 +15,7 @@
 
 📌: [Funcionalidades](#funcionalidades)
 
+📌: [Tarefas em aberto](#tarefas-em-aberto)
 
 ## Descrição do projeto 
 
@@ -35,14 +36,20 @@
 
 ## Status do Projeto: Em andamento 🏗️ 👷
 
+## Tarefas em aberto
 
+:memo: Adicionar links para o canal do yt, ou site referente a cada thumbnail ou ícone na página
 
 ## Layout da Aplicação 💨:
 
   <img src="https://github.com/obamis/BeatFlixDIO/blob/master/img/interface-site/BEATFLIX1.png"/>
   <img src="https://github.com/obamis/BeatFlixDIO/blob/master/img/interface-site/BEATFLIX2.png"/>
+    
+  
+  ## Licença 
+The [MIT License]() (MIT)
+Copyright :copyright: 2021 - BeatFlix
 
-![loficoding13](https://user-images.githubusercontent.com/56206316/114814013-ac327380-9d89-11eb-905b-0721709aa5a0.jpg)
  
 
 
