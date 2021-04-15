@@ -10,11 +10,11 @@
 
 ## Intuito da plataforma :point_down:
 
-:trophy: Centralizar playlists <strong>lofi</strong> voltadas para estudos e atividades que requerem foco e concentração.
+:headphones: Centralizar playlists <strong>lofi</strong> voltadas para estudos e atividades que requerem foco e concentração.
 
-:trophy: Curadoria das playlist de acordo com a vertente de seu estilo musical.
+:headphones: Curadoria das playlist de acordo com a vertente de seu estilo musical.
 
-:trophy: Recomendações baseadas nas atividades a ser realizada
+:headphones: Recomendações baseadas nas atividades a ser realizada
 
 ## Status do Projeto: Em desenvolvimento :warning:
 
