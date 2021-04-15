@@ -11,21 +11,26 @@
 <body>
   <header>
     <div class="container">
-      <h2 class="logo">NETFLIX</h2>
+      <h2 class="logo">BEATFLIX</h2>
       <nav>
         <a href="#">Início</a>
-        <a href="#">Filmes</a>
-        <a href="#">Séries</a>
-        <a href="#">Documentários</a>
+        <a href="#">Clássica</a>
+        <a href="#">Mpb</a>
+        <a href="#">Pop</a>
       </nav>
     </div>
+
+    <!-- owl css -->
+    <link rel="stylesheet" href="style/owl/owl.carousel.css">
+    <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+
   </header>
 
   <main>
     <div class="filme-principal">
       <div class="container">
-        <h3 class="titulo">THE OFFICE </h3>
-        <p class="descricao">Nesta irreverente adaptação da famosa série britânica, Steve Carell é Michael Scott, o egocêntrico, insensível e incompetente gerente regional de uma subsidiária da Dunder Mifflin Paper Company. Michael acredita ser o cara mais engraçado do escritório, uma fonte de sabedoria para negócios e o melhor amigo de seus funcionários. Ele nem desconfia que a sua equipe o tolera apenas pelo fato dele assinar o contracheque deles. Sem saber o que os seus funcionários pensam a seu respeito, Michael acaba sempre alternando decisões absurdas ou patéticas, mas sempre hilárias.</p>
+        <h3 class="titulo">Lo-Fi Beats </h3>
+        <p class="descricao"> Uma batida para "ficar de boa". São sons menos agressivos e vibrantes que o hip hop tradicional.<br> Por ser suave e melódico, dá para dizer que o relaxamento é quase instantâneo</p>
         <button role="button" class="botao">
           <i class="fas fa-play"></i>
           MAIS INFORMAÇÕES
@@ -41,7 +46,47 @@
 
   </main>
 
+  <div class="carrosel-filmes">
+    <div class="owl-carousel owl-theme">
+      <div class="item">
+        <img class="box-filme" src="img/loficoding1.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding2.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding3.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding4.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding5.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding6.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding7.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding8.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding9.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding10.jpg" alt="">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="img/loficoding11.jpg" alt="">
+      </div>
+    </div>
+  </div>
 
   <script src="https://kit.fontawesome.com/4425910f89.js" crossorigin="anonymous"></script>
+  <script src="js/owl/jquery.min.js"></script>
+  <script src="js/owl/owl.carousel.min.js"></script>
+  <script src="js/owl/setup.js"></script>
 </body>
 </html>
