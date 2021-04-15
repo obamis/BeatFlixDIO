@@ -22,7 +22,6 @@
    Projeto "recriando a Interface da Netflix" da Digital Innovation One.
    O intuito do projeto é exercitar a criatividade, desenvolver habilidades práticas e adquirir experiência enquanto o portfólio também é construído.
    Após a conclusão do projeto fiz algumas modificações, atendendo ao que foi proposto no desafio ao final das aulas, mudei o "foco da plataforma", sendo essa algo voltado  para centralizar, realizar curadoria e recomendar playlists de lofi para pessoas que buscam por boas músicas para auxiliar em atividades que requerem concentração
-
 </p>
 
 ## Funcionalidades
