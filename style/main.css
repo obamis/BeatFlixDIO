@@ -40,7 +40,8 @@ header nav a{
 }
 
 header nav a:hover{
-  color:#fff
+  transition: .8s ease all;
+  color:tomato;
 }
 
 /* Fime principal*/
@@ -69,6 +70,7 @@ header nav a:hover{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+
 .botao{
   background-color: rgba(0,0,0,.50);
   border: none;
@@ -83,7 +85,8 @@ header nav a:hover{
 
 .botao:hover{
   background-color: white;
-  color: black;
+  /* color: black; */
+  color: tomato;
   transition: .3s ease all;
 }
 
