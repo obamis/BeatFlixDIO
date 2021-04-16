@@ -38,8 +38,8 @@
 
 ## Tarefas em aberto
 
-:memo: Adicionar links para o canal do yt, ou site referente a cada thumbnail ou ícone na página
-:memo: Adicionar visualização para vídeo selecionado na página
+:memo: Adicionar links para o canal do yt, ou site referente a cada thumbnail ou ícone na página<br>
+:memo: Adicionar visualização para vídeo selecionado na página<br>
 :memo: Adicionar informações para vídeo selecionado na página
 
 ## Layout da Aplicação 💨:
