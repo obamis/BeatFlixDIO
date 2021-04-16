@@ -31,7 +31,7 @@
 
 :headphones: Curadoria das playlist de acordo com a vertente de seu estilo musical.
 
-:headphones: Recomendações baseadas nas atividades a ser realizada
+:headphones: Recomendações baseadas nas atividades a serem realizadas
 
 
 ## Status do Projeto: Em andamento 🏗️ 👷
@@ -39,6 +39,8 @@
 ## Tarefas em aberto
 
 :memo: Adicionar links para o canal do yt, ou site referente a cada thumbnail ou ícone na página
+:memo: Adicionar visualização para vídeo selecionado na página
+:memo: Adicionar informações para vídeo selecionado na página
 
 ## Layout da Aplicação 💨:
 
